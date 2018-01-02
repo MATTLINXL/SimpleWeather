@@ -1,15 +1,15 @@
 //
-//  SimpleTests.swift
-//  SimpleTests
+//  WeatherDataManagerTest.swift
+//  简单天气Tests
 //
-//  Created by 林夏良 on 2017/12/30.
-//  Copyright © 2017年 林夏良. All rights reserved.
+//  Created by 林夏良 on 2018/1/2.
+//  Copyright © 2018年 林夏良. All rights reserved.
 //
 
 import XCTest
 @testable import Simple
 
-class SimpleTests: XCTestCase {
+class WeatherDataManagerTest: XCTestCase {
     
     override func setUp() {
         super.setUp()
